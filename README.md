@@ -1,2 +1,2 @@
 # Components
-Kumpulan code sections memakai Tailwind CSS
+Kumpulan code components / sections memakai Tailwind CSS
